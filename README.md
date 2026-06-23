@@ -74,7 +74,7 @@ Shows how I'd take a self-hosted Ops setup and evolve it into governed, producti
 <summary>Design highlights + architecture diagram</summary>
 <br>
 
-<img src="https://github.com/byamada64/tracit/raw/main/docs/tracit-architecture.png" width="600" alt="TracIT architecture diagram">
+<img src="https://github.com/byamada64/tracit/raw/main/docs/tracit-architecture.png" width="560" alt="TracIT architecture diagram">
 
 - Docker self-hosted services behind reverse proxy + secure access controls
 - Azure hub-and-spoke target: app spoke + data spoke, force-tunneled through NVA

@@ -86,6 +86,12 @@ I am currently strengthening hands-on skills in:
 - Monitoring, logging, and operational dashboards
 - Practical documentation and runbook development
 
+## Certifications In Progress
+
+- CompTIA Security+ — exam preparation in progress
+- Microsoft AZ-104 — Azure Administrator Associate preparation
+- AWS Solutions Architect Associate — preparation in progress
+
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/brian-yamada

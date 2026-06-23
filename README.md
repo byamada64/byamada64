@@ -55,21 +55,9 @@ Monitoring is the operations layer that connects infrastructure work to real sup
 
 ## ⚙️ Infrastructure Automation
 
-### Terraform / Ansible / CI/CD Practice
-**Repeatable provisioning, configuration, and validation workflows** &nbsp;`Terraform` `Ansible` `Jenkins` `GitHub Actions`
+**Same toolset, applied to consistency and repeatable handoff** &nbsp;`Terraform` `Ansible` `Jenkins` `GitHub Actions`
 
-This work focuses on reducing manual infrastructure steps through repeatable builds, baseline configuration, validation checks, and deployment workflows. The goal is not automation for automation’s sake — it is consistency, fewer missed steps, and cleaner operational handoff.
-
-<details>
-<summary>Automation focus</summary>
-<br>
-
-- Terraform examples for repeatable cloud infrastructure
-- Ansible playbooks for Linux baseline tasks and service deployment
-- Jenkins and CI/CD practice for deployment validation
-- Security-aware automation patterns such as secrets handling, access control, and repeatable configuration
-
-</details>
+The automation patterns behind this lane — repeatable provisioning, Ansible baseline configs, and CI/CD validation — live in *Cloud Infrastructure Deployments* above. The goal isn't automation for its own sake; it's fewer missed steps and cleaner operational handoff.
 
 **[View repo →](https://github.com/byamada64/cloud-infrastructure-deployments)**
 
@@ -82,11 +70,11 @@ This work focuses on reducing manual infrastructure steps through repeatable bui
 
 Shows how I'd take a self-hosted Ops setup and evolve it into governed, production-style cloud infrastructure — the migration path most teams actually need.
 
-<img src="https://github.com/byamada64/tracit/raw/main/docs/tracit-architecture.png" width="640" alt="TracIT architecture diagram">
-
 <details>
-<summary>Design highlights</summary>
+<summary>Design highlights + architecture diagram</summary>
 <br>
+
+<img src="https://github.com/byamada64/tracit/raw/main/docs/tracit-architecture.png" width="600" alt="TracIT architecture diagram">
 
 - Docker self-hosted services behind reverse proxy + secure access controls
 - Azure hub-and-spoke target: app spoke + data spoke, force-tunneled through NVA

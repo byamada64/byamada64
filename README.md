@@ -2,10 +2,6 @@
 
 **IT Infrastructure & Cloud Operations** &nbsp;·&nbsp; 📍 San Diego, CA
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,aws,terraform,ansible,docker,linux,bash,git,github" />
-</p>
-
 I build cloud and infrastructure labs that connect hands-on learning to real-world ops — deploy it, validate it, troubleshoot it, document it, support it.
 
 ---
@@ -70,11 +66,9 @@ A personal system that ingests job postings from browser and email, scores them 
 
 ## Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,aws,terraform,ansible,docker,jenkins,githubactions,linux,bash,powershell,nginx,grafana,prometheus,py,fastapi,react,vite,postgres,redis,sqlite" />
-</p>
+<img src="https://skillicons.dev/icons?i=azure,aws,terraform,ansible,docker,linux,py,react,postgres,git" />
 
-Also: VMware · Windows Server · Active Directory / Entra ID · ServiceNow · Jira · IAM/MFA/RBAC · firewalls & VPN
+Also working with: Bash · PowerShell · Jenkins · GitHub Actions · Nginx · Grafana · Prometheus · FastAPI · Redis · VMware · Windows Server · Active Directory / Entra ID · ServiceNow · Jira
 
 ---
 
@@ -86,5 +80,4 @@ Also: VMware · Windows Server · Active Directory / Entra ID · ServiceNow · J
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-yamada)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/byamada64)
+🔗 [LinkedIn](https://www.linkedin.com/in/brian-yamada) &nbsp;·&nbsp; 💻 [GitHub](https://github.com/byamada64)

@@ -1,102 +1,90 @@
-# Hi there 👋, I'm Brian 
+# Hi there 👋, I'm Brian
 
-**IT Infrastructure & Cloud Operations**  
-San Diego, CA | Azure | AWS | Security | Monitoring | Automation | Documentation
+**IT Infrastructure & Cloud Operations** &nbsp;·&nbsp; 📍 San Diego, CA
 
-I build practical cloud and infrastructure labs that connect hands-on learning to real-world IT operations. Most projects start with a simple question: how would I deploy it, validate it, troubleshoot it, document it, and support it in a real environment?
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,aws,terraform,ansible,docker,linux,bash,git,github" />
+</p>
 
-## 🧭 How I Approach Projects
-
-I try to document more than the final result. I include setup steps, validation checks, troubleshooting notes, design tradeoffs, and lessons learned because that is how real operations work happens.
-
-### 🤖 AI Secretary  
-**Workflow automation, role tracking, and job search operations**
-
-Python | FastAPI | SQLite | React | Chrome Extension
-
-A personal workflow system built to organize job search activity, reduce manual tracking, and improve follow-up visibility. The project includes job intake, role classification, scoring logic, dashboard views, deduplication, and application workflow tracking.
-
-Operational focus:
-
-- Captures job data from browser and email-based workflows
-- Classifies roles into lanes such as cloud, infrastructure, support, and operations
-- Tracks application status, follow-ups, recruiter notes, and resume alignment
-- Uses a FastAPI backend, SQLite database, and React/Vite dashboard
-- Built to solve a real workflow problem rather than exist as a tutorial project
-
-> Public repo pending after sensitive data, keys, and personal workflow details are removed.
+I build cloud and infrastructure labs that connect hands-on learning to real-world ops — deploy it, validate it, troubleshoot it, document it, support it.
 
 ---
 
-### 🔷 TracIT  
-**Self-hosted platform with Azure migration architecture**
+## 🤖 AI Secretary
+**Job search workflow automation** &nbsp;`Python` `FastAPI` `SQLite` `React` `Chrome Extension`
 
-Docker | Terraform | Azure | PostgreSQL | Redis | n8n
+A personal system that ingests job postings from browser and email, scores them against my resume, and tracks the full application lifecycle — built to solve a real workflow problem, not as a tutorial project.
 
-A self-hosted platform built on Synology NAS and containerized services, with a documented target architecture for Azure migration. The project focuses on infrastructure design, cost-aware cloud planning, container operations, and operational handoff.
+<details>
+<summary>What it does</summary>
+<br>
 
-Highlights:
+- Captures job data from browser extension and email-based intake
+- Classifies roles into lanes (cloud, infrastructure, support, ops)
+- Tracks application status, follow-ups, recruiter notes, resume alignment
+- FastAPI backend + SQLite database + React/Vite dashboard
 
-- Docker-based self-hosted services behind reverse proxy and secure access controls
-- Azure hub-and-spoke target design with application and data spokes
-- Cost-conscious design decisions comparing NVA-based routing versus Azure Firewall
-- CI/CD planning, container validation, and security scanning concepts
-- Architecture notes, design decisions, troubleshooting, and lessons learned
+</details>
 
-[View repo](https://github.com/byamada64/tracit)
+> Public repo pending — sanitizing keys and personal workflow data first.
 
 ---
 
-### Cloud Infrastructure Deployments
+## 🔷 TracIT
+**Self-hosted platform with an Azure hub-and-spoke migration target** &nbsp;`Docker` `Terraform` `Azure` `PostgreSQL` `Redis` `n8n`
 
-**Azure | AWS | Terraform | Ansible | Jenkins | Linux | Monitoring**
+<img src="https://github.com/byamada64/tracit/raw/main/docs/tracit-architecture.png" width="640" alt="TracIT architecture diagram">
 
-Hands-on infrastructure build reference covering Azure, AWS, automation, monitoring, and operational validation. This repo documents practical work across cloud resources, infrastructure automation, Linux administration, and deployment workflows.
+<details>
+<summary>Design highlights</summary>
+<br>
 
-Examples include:
+- Docker self-hosted services behind reverse proxy + secure access controls
+- Azure hub-and-spoke target: app spoke + data spoke, force-tunneled through NVA
+- Cost comparison: NVA-based routing vs. Azure Firewall
+- CI/CD planning, container validation, security scanning
 
-- Azure VMs, AKS, App Service, Key Vault, networking, RBAC, and monitoring concepts
-- AWS EC2, IAM, Secrets Manager, Elastic Beanstalk, and supporting infrastructure
-- Ansible playbooks for Linux baseline tasks, NGINX deployment, health checks, and daily operations
-- Terraform-based infrastructure examples and deployment validation
-- Jenkins and CI/CD practice for repeatable deployment workflows
+</details>
 
-[View repo](https://github.com/byamada64/cloud-infrastructure-deployments)
+**[View repo →](https://github.com/byamada64/tracit)**
 
-## Core Areas
+---
 
-**Cloud & Infrastructure**  
-Azure, AWS, VMware, Windows Server, Linux, Active Directory, Entra ID, networking, hybrid infrastructure
+## ☁️ Cloud Infrastructure Deployments
+**Hands-on build reference** &nbsp;`Azure` `AWS` `Terraform` `Ansible` `Jenkins` `Linux`
 
-**Automation & IaC**  
-Terraform, Ansible, PowerShell, Bash, Python basics, GitHub Actions, Jenkins
+<details>
+<summary>What's inside</summary>
+<br>
 
-**Monitoring & Operations**  
-Elastic, Kibana, Grafana, Prometheus, SNMP concepts, log/metric collection, alerting, operational validation
+- **Azure:** VMs, AKS, App Service, Key Vault, networking, RBAC
+- **AWS:** EC2, IAM, Secrets Manager, Elastic Beanstalk
+- **Ansible:** baseline config, NGINX deploy, health checks, daily ops
+- **Terraform + Jenkins:** IaC examples and CI/CD practice
 
-**Security & Network Operations**  
-IAM, MFA, RBAC, VPN, firewalls, DNS/DHCP, access control, endpoint security, vulnerability awareness, and security documentation
+</details>
 
-**IT Service Delivery**  
-ServiceNow, Jira, onboarding/offboarding workflows, support handoff, SOPs, knowledge documentation, incident/request tracking
+**[View repo →](https://github.com/byamada64/cloud-infrastructure-deployments)**
 
-## Current Focus
+---
 
-I am currently strengthening hands-on skills in:
+## Stack
 
-- Azure administration and AZ-104 preparation
-- AWS Solutions Architect Associate preparation
-- Infrastructure automation with Terraform and Ansible
-- Monitoring, logging, and operational dashboards
-- Practical documentation and runbook development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,aws,terraform,ansible,docker,jenkins,githubactions,linux,bash,powershell,nginx,grafana,prometheus,py,fastapi,react,vite,postgres,redis,sqlite" />
+</p>
 
-## Certifications In Progress
+Also: VMware · Windows Server · Active Directory / Entra ID · ServiceNow · Jira · IAM/MFA/RBAC · firewalls & VPN
 
-- CompTIA Security+ — exam preparation in progress
-- Microsoft AZ-104 — Azure Administrator Associate preparation
-- AWS Solutions Architect Associate — preparation in progress
+---
+
+## Currently Working Toward
+
+🔷 AZ-104 (Azure Administrator) &nbsp;·&nbsp; ☁️ AWS Solutions Architect Associate &nbsp;·&nbsp; 🔐 CompTIA Security+
+
+---
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/brian-yamada
-- GitHub: https://github.com/byamada64
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-yamada)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/byamada64)

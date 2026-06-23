@@ -32,24 +32,28 @@ The foundation underneath everything else here — provisioning, validating, and
 
 ## 📊 Monitoring & Observability
 
-### Grafana / Prometheus / SNMP Monitoring Lab
-**Dashboards, metrics, exporters, and operational validation** &nbsp;`Grafana` `Prometheus` `SNMP` `Linux` `Docker`
+### Grafana / Prometheus / Docker Observability Stack
+**Dashboards, metrics, exporters, and operational validation** &nbsp;`Grafana` `Prometheus` `cAdvisor` `Node Exporter` `Linux` `Docker`
 
-Monitoring is the operations layer that connects infrastructure work to real support value. This section focuses on practical visibility: collecting metrics, validating health, building dashboards, identifying gaps, and documenting checks that could support daily operations or NOC handoff.
+Monitoring is the operations layer that connects infrastructure work to real support value. This build documents an internal observability stack for Linux infrastructure and Docker workloads using Prometheus, Grafana, cAdvisor, and Node Exporter.
+
+The focus is practical visibility: deploying the stack, validating telemetry flow, troubleshooting scrape issues, building dashboards, normalizing container names, checking firewall/port access, and documenting operational validation steps.
 
 <details>
-<summary>Planned / covered areas</summary>
+<summary>What's inside</summary>
 <br>
 
-- Grafana dashboards for infrastructure and network visibility
-- Prometheus metrics and exporter validation
-- Linux/system health checks and dashboard panels
-- SNMP monitoring concepts for network devices
-- Alerting, troubleshooting notes, and operational runbook checks
+- Linux monitoring VM build and Docker Compose deployment
+- Prometheus scrape target configuration and metric validation
+- Grafana dashboard panels for CPU, memory, filesystem, disk, host load, and Docker containers
+- cAdvisor and Node Exporter telemetry collection
+- YAML relabeling for cleaner container visibility
+- Internal subnet, firewall, and port accessibility troubleshooting
+- Security-minded design with internal-only telemetry exposure
 
 </details>
 
-> Repo in progress.
+**[View full build notes →](https://github.com/byamada64/cloud-infrastructure-deployments/blob/main/observability/docker-observability-stack.md)**
 
 ---
 

@@ -2,14 +2,16 @@
 
 **IT Infrastructure & Cloud Operations** &nbsp;·&nbsp; 📍 San Diego, CA
 
-I build cloud and infrastructure labs that connect hands-on learning to real-world ops — deploy it, validate it, troubleshoot it, document it, support it.
+I'm an infrastructure and cloud operations engineer moving from traditional day-to-day Ops into automation-driven operations — building the tooling that makes recurring operational work faster, more reliable, and less manual. Most projects start with one question: how would I deploy it, validate it, troubleshoot it, document it, and support it in a real environment? The work below shows both halves of that direction — hands-on cloud infrastructure fundamentals, and the automation layer I build on top of them.
 
 ---
 
 ## 🤖 AI Secretary
 **Job search workflow automation** &nbsp;`Python` `FastAPI` `SQLite` `React` `Chrome Extension`
 
-A personal system that ingests job postings from browser and email, scores them against my resume, and tracks the full application lifecycle — built to solve a real workflow problem, not as a tutorial project.
+A real example of replacing manual, repetitive tracking with an automated pipeline — the same instinct I'd apply to operational toil in a production environment.
+
+A personal system that ingests job postings from browser and email, scores them against my resume, and tracks the full application lifecycle.
 
 <details>
 <summary>What it does</summary>
@@ -28,6 +30,8 @@ A personal system that ingests job postings from browser and email, scores them 
 
 ## 🔷 TracIT
 **Self-hosted platform with an Azure hub-and-spoke migration target** &nbsp;`Docker` `Terraform` `Azure` `PostgreSQL` `Redis` `n8n`
+
+Shows how I'd take a self-hosted Ops setup and evolve it into governed, production-style cloud infrastructure — the migration path most teams actually need.
 
 <img src="https://github.com/byamada64/tracit/raw/main/docs/tracit-architecture.png" width="640" alt="TracIT architecture diagram">
 
@@ -48,6 +52,8 @@ A personal system that ingests job postings from browser and email, scores them 
 
 ## ☁️ Cloud Infrastructure Deployments
 **Hands-on build reference** &nbsp;`Azure` `AWS` `Terraform` `Ansible` `Jenkins` `Linux`
+
+The fundamentals underneath everything else here — provisioning, validating, and troubleshooting cloud infrastructure by hand before automating it.
 
 <details>
 <summary>What's inside</summary>

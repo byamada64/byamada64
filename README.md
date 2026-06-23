@@ -66,7 +66,7 @@ A personal system that ingests job postings from browser and email, scores them 
 
 ## Stack
 
-<img src="https://skillicons.dev/icons?i=azure,aws,terraform,ansible,docker,linux,py,react,postgres,git" />
+<img src="https://skillicons.dev/icons?i=azure,aws,terraform,ansible,docker,linux,py,react,postgres,git" height="40" />
 
 Also working with: Bash · PowerShell · Jenkins · GitHub Actions · Nginx · Grafana · Prometheus · FastAPI · Redis · VMware · Windows Server · Active Directory / Entra ID · ServiceNow · Jira
 

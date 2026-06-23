@@ -70,7 +70,9 @@ The fundamentals underneath everything else here — provisioning, validating, a
 
 ---
 
-## Stack
+## Core Areas
+
+Cloud infrastructure, Windows/Linux systems, VMware, Active Directory, Entra ID, Terraform, Ansible, PowerShell, Bash, Docker, monitoring, security, networking, ServiceNow, Jira, documentation, and IT service delivery.
 
 <img src="https://skillicons.dev/icons?i=azure,aws,terraform,ansible,docker,linux,py,react,postgres,git" height="40" />
 

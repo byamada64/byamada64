@@ -80,6 +80,8 @@ Also working with: Bash · PowerShell · Jenkins · GitHub Actions · Nginx · G
 
 ## Currently Working Toward
 
+I am currently focused on Security+ preparation, Azure administration, AWS architecture fundamentals, infrastructure automation, monitoring dashboards, and practical runbook documentation.
+
 🔷 AZ-104 (Azure Administrator) &nbsp;·&nbsp; ☁️ AWS Solutions Architect Associate &nbsp;·&nbsp; 🔐 CompTIA Security+
 
 ---

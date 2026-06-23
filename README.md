@@ -1,4 +1,4 @@
-# Hi, I'm Brian 👋
+# Hi there 👋, I'm Brian 
 
 **IT Infrastructure & Cloud Operations**  
 San Diego, CA | Azure | AWS | Security | Monitoring | Automation | Documentation

@@ -13,7 +13,7 @@ The work below is organized around four practical lanes: cloud infrastructure, m
 ### Cloud Infrastructure Deployments
 **Hands-on AWS/Azure build reference** &nbsp;`Azure` `AWS` `Terraform` `Ansible` `Jenkins` `Linux`
 
-The fundamentals underneath everything else here — provisioning, validating, and troubleshooting cloud infrastructure by hand before automating it.
+The foundation underneath everything else here — provisioning, validating, and troubleshooting cloud infrastructure by hand before automating it.
 
 <details>
 <summary>What's inside</summary>

@@ -1,15 +1,18 @@
-# Brian Yamada
+# Hi, I'm Brian 👋
 
 **IT Infrastructure & Cloud Operations**  
 San Diego, CA | Azure | AWS | Security | Monitoring | Automation | Documentation
 
-I use this GitHub to document practical infrastructure, cloud, monitoring, security, and automation work. Most projects start from a simple operations question: how would I deploy it, validate it, troubleshoot it, document it, and support it in a real environment?
+I build practical cloud and infrastructure labs that connect hands-on learning to real-world IT operations. Most projects start with a simple question: how would I deploy it, validate it, troubleshoot it, document it, and support it in a real environment?
 
-## Featured Projects
+## 🧭 How I Approach Projects
 
-### AI Secretary — Job Search Workflow & Tracking System
+I try to document more than the final result. I include setup steps, validation checks, troubleshooting notes, design tradeoffs, and lessons learned because that is how real operations work happens.
 
-**Python | FastAPI | SQLite | React | Vite | Chrome Extension**
+### 🤖 AI Secretary  
+**Workflow automation, role tracking, and job search operations**
+
+Python | FastAPI | SQLite | React | Chrome Extension
 
 A personal workflow system built to organize job search activity, reduce manual tracking, and improve follow-up visibility. The project includes job intake, role classification, scoring logic, dashboard views, deduplication, and application workflow tracking.
 
@@ -25,9 +28,10 @@ Operational focus:
 
 ---
 
-### TracIT — Self-Hosted Tracking Platform with Azure Target Architecture
+### 🔷 TracIT  
+**Self-hosted platform with Azure migration architecture**
 
-**Docker | Terraform | Azure | Node.js | Next.js | PostgreSQL | Redis | n8n**
+Docker | Terraform | Azure | PostgreSQL | Redis | n8n
 
 A self-hosted platform built on Synology NAS and containerized services, with a documented target architecture for Azure migration. The project focuses on infrastructure design, cost-aware cloud planning, container operations, and operational handoff.
 

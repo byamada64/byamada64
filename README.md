@@ -57,7 +57,7 @@ Monitoring is the operations layer that connects infrastructure work to real sup
 
 **Same toolset, applied to consistency and repeatable handoff** &nbsp;`Terraform` `Ansible` `Jenkins` `GitHub Actions`
 
-The automation patterns behind this lane — repeatable provisioning, Ansible baseline configs, and CI/CD validation — live in *Cloud Infrastructure Deployments* above. The goal isn't automation for its own sake; it's fewer missed steps and cleaner operational handoff.
+The automation patterns behind this lane — repeatable provisioning, Ansible baseline configs, and CI/CD validation — live in *Cloud Infrastructure Deployments* above. The goal isn't automation for its own sake; it's fewer missed steps, cleaner validation, and better operational handoff.
 
 **[View repo →](https://github.com/byamada64/cloud-infrastructure-deployments)**
 
